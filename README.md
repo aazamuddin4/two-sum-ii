@@ -11,8 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-For Two Sum II - Input Array Is Sorted Code
-Open Developer Tools and Inspect for the answer/output
+🔥🔥🔥💻**For Two Sum II - Input Array Is Sorted Code**💻🔥🔥🔥.\
+**Open Developer Tools and Inspect for the answer/output**
 
 ### `yarn test`
 
